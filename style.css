@@ -7,7 +7,7 @@
 .navbar{
     background-color: rgb(247, 63, 30);
     width: 100%;
-    padding: 30px;
+    padding: 10px 50px;
     font-family: 'Ubuntu', sans-serif;
     color: white;
     font-weight: 500;
@@ -53,11 +53,10 @@
 }
 .search{
     float: left;
-    padding: 10px;
+    margin-top: 15px;
 }
 input{
     width: 600px;
-    writing-mode: horizontal-tb;
     height: 50px;
 }
 .search img{
@@ -79,5 +78,4 @@ input{
     list-style: none;
     text-align: center;
     justify-content: space-between;
-    margin-left: 5px;
 }
